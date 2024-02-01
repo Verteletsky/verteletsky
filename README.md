@@ -10,6 +10,8 @@
     </a>
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=verteletsky&style=flat-square&color=blue" alt=""/> -->
+<img src="https://www.codewars.com/users/go_dev0/badges/micro" alt=""/>
+<img src="https://badges.peiyuan.ch/leetcode/go_dev/ranking?logo=leetcode&label=go_dev&color=blue" alt=""/>
 
   <h1>
   hey there
@@ -47,6 +49,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
+<!--   rabbitmq -->
 </div>
 
 ---
